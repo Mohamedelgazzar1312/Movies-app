@@ -1,0 +1,32 @@
+
+  .pagination {
+  background-color:#1E001F;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    margin: 0!important;
+    padding-top: 80px;
+    /* padding-right: -100px; */
+    padding-right:470px;
+    padding-left:480px;
+  }
+  
+  .pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: #ddd;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .pagination button.active {
+    background-color: #bbb;
+  }
+  .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }

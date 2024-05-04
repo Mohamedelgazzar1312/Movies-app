@@ -1,0 +1,79 @@
+.search-container{
+    position: absolute;
+   left: 570px;
+   bottom: 570px;
+    display: block;
+    margin: 10px;
+
+   
+
+}
+
+.search-container input{
+    width: 300px;
+    height: 30px;
+    background-color: #FDD1FF;
+    position: absolute;
+    left: -60px;
+    bottom: -45px;
+    margin-top: 50px;
+    border-radius: 10px;
+ 
+}
+.search-container button{
+    background-color: #FE6CFE; 
+    color: #1E001F; 
+    height: 30px;
+    border-radius: 4px;
+    padding:  5px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 5px;
+    align-items: center;
+  padding-top: 3px;
+    position: absolute;
+    left: 200px;
+    bottom: -45px;
+
+}
+
+.search-container button :hover{
+    background-color: #FDD1FF; 
+}
+.search-container svg{
+    position: absolute;
+    left: 260px;
+    top:19px
+}
+
+.card svg{
+position: absolute;
+left: 350px;
+    
+}
+.card-body{
+  padding: 5px!important;
+  height: 15px;
+ 
+}
+.card-body h5 , .card-body p{
+    color: #FDD1FF;
+   
+}
+.btn {
+    background-color: #FE6CFE; 
+    color: #1E001F; 
+    border: none;
+    outline: none;
+    position: absolute;
+  
+    right: 330px;
+    bottom: 12px;
+}
+.btn:hover {
+    background-color: #FE6CFE; 
+    color: #1E001F; 
+    border: none;
+    outline: none;
+   
+}

@@ -1,0 +1,33 @@
+.main{
+    background-color: #1E001F;
+}
+.card-body h2{
+    color :#FDD1FF;
+    
+}
+.card-body{
+    border-radius: 20px solid white;
+}
+.card{
+    background-color: #29052A;
+}
+.card-body label{
+    color:#FE6CFE;
+    font-size: 13px;
+}
+.main input{
+    background-color:#FDD1FF;
+}
+.main button{
+    background-color: #FE6CFE ; 
+    color: #1E001F; 
+    border: none;
+    outline: none;
+}
+.main button:hover{
+    background-color: #FE6CFE ; 
+    color: #1E001F; 
+}
+
+
+ 
